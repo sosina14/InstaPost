@@ -1,1 +1,1 @@
-Java Swing project
+Java Swing project.
